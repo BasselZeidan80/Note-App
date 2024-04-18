@@ -1,0 +1,17 @@
+#Signup {
+    height: 100vh;
+    background-image: url('../assets/notea.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    height: 100%;
+}
+
+.formUi {
+    background-color: rgba(255, 153, 0, 0.27);
+    padding: 20px;
+    border-radius: 20px;
+}
